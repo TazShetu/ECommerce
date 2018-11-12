@@ -1,0 +1,3 @@
+all folders r copied to Public/app directory
+
+shop.html is the main index
